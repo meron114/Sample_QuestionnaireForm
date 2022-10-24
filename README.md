@@ -1,1 +1,2 @@
 # Sample_QuestionnaireForm
+　ご利用アンケートフォームのサンプルになります。
